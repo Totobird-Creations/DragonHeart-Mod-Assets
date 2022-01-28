@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "dragonheart:block/dragonboneblock_top",
+    "bottom": "dragonheart:block/dragonboneblock_top",
+    "side": "dragonheart:block/dragonboneblock_side"
+  }
+}
