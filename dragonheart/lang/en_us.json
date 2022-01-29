@@ -37,6 +37,9 @@
   "item.dragonheart.dragonblood_fire"                             : "Fire Dragon Blood",
   "item.dragonheart.dragonblood_ice"                              : "Ice Dragon Blood",
   "item.dragonheart.dragonblood_lightning"                        : "Lightning Dragon Blood",
+  "item.dragonheart.dragonheart_fire"                             : "Fire Dragon Heart",
+  "item.dragonheart.dragonheart_ice"                              : "Ice Dragon Heart",
+  "item.dragonheart.dragonheart_lightning"                        : "Lightning Dragon Heart",
 
   "_comment4" : "Sword Itmes",
   "item.dragonheart.sword_dragonbone"                             : "Dragon Bone Sword",
