@@ -41,7 +41,12 @@
   "item.dragonheart.dragonheart_ice"                              : "Ice Dragon Heart",
   "item.dragonheart.dragonheart_lightning"                        : "Lightning Dragon Heart",
 
-  "_comment4" : "Sword Itmes",
+  "_comment4" : "Food Items",
+  "item.dragonheart.dragonmeat_fire"                              : "Fire Dragon Meat",
+  "item.dragonheart.dragonmeat_ice"                               : "Ice Dragon Meat",
+  "item.dragonheart.dragonmeat_lightning"                         : "Lightning Dragon Meat",
+
+  "_comment5" : "Sword Itmes",
   "item.dragonheart.sword_dragonbone"                             : "Dragon Bone Sword",
   "item.dragonheart.sword_dragonbone_fire"                        : "Fire Dragon Bone Sword",
   "item.dragonheart.sword_dragonbone_ice"                         : "Ice Dragon Bone Sword",
@@ -50,7 +55,7 @@
   "item.dragonheart.sword_dragonsteel_ice"                        : "Ice Dragon Steel Sword",
   "item.dragonheart.sword_dragonsteel_lightning"                  : "Lightning Dragon Steel Sword",
 
-  "_comment5" : "Pickaxe Itmes",
+  "_comment6" : "Pickaxe Itmes",
   "item.dragonheart.pickaxe_dragonbone"                           : "Dragon Bone Pickaxe",
   "item.dragonheart.pickaxe_dragonbone_fire"                      : "Fire Dragon Bone Pickaxe",
   "item.dragonheart.pickaxe_dragonbone_ice"                       : "Ice Dragon Bone Pickaxe",
@@ -59,7 +64,7 @@
   "item.dragonheart.pickaxe_dragonsteel_ice"                      : "Ice Dragon Steel Pickaxe",
   "item.dragonheart.pickaxe_dragonsteel_lightning"                : "Lightning Dragon Steel Pickaxe",
 
-  "_comment6" : "Axe Itmes",
+  "_comment7" : "Axe Itmes",
   "item.dragonheart.axe_dragonbone"                               : "Dragon Bone Axe",
   "item.dragonheart.axe_dragonbone_fire"                          : "Fire Dragon Bone Axe",
   "item.dragonheart.axe_dragonbone_ice"                           : "Ice Dragon Bone Axe",
@@ -68,7 +73,7 @@
   "item.dragonheart.axe_dragonsteel_ice"                          : "Ice Dragon Steel Axe",
   "item.dragonheart.axe_dragonsteel_lightning"                    : "Lightning Dragon Steel Axe",
 
-  "_comment7" : "Axe Itmes",
+  "_comment8" : "Axe Itmes",
   "item.dragonheart.shovel_dragonbone"                            : "Dragon Bone Shovel",
   "item.dragonheart.shovel_dragonbone_fire"                       : "Fire Dragon Bone Shovel",
   "item.dragonheart.shovel_dragonbone_ice"                        : "Ice Dragon Bone Shovel",
@@ -77,7 +82,7 @@
   "item.dragonheart.shovel_dragonsteel_ice"                       : "Ice Dragon Steel Shovel",
   "item.dragonheart.shovel_dragonsteel_lightning"                 : "Lightning Dragon Steel Shovel",
 
-  "_comment8" : "Hoe Itmes",
+  "_comment9" : "Hoe Itmes",
   "item.dragonheart.hoe_dragonbone"                               : "Dragon Bone Hoe",
   "item.dragonheart.hoe_dragonbone_fire"                          : "Fire Dragon Bone Hoe",
   "item.dragonheart.hoe_dragonbone_ice"                           : "Ice Dragon Bone Hoe",
@@ -86,12 +91,12 @@
   "item.dragonheart.hoe_dragonsteel_ice"                          : "Ice Dragon Steel Hoe",
   "item.dragonheart.hoe_dragonsteel_lightning"                    : "Lightning Dragon Steel Hoe",
 
-  "_comment9" : "Staff Itmes",
+  "_comment10" : "Staff Itmes",
   "item.dragonheart.staff_fire"                                   : "Fire Staff",
   "item.dragonheart.staff_ice"                                    : "Ice Staff",
   "item.dragonheart.staff_lightning"                              : "Lightning Staff",
 
-  "_comment10" : "Armour Itmes",
+  "_comment11" : "Armour Itmes",
   "item.dragonheart.helmet_dragonbone"                            : "Dragon Bone Helmet",
   "item.dragonheart.chestplate_dragonbone"                        : "Dragon Bone Chestplate",
   "item.dragonheart.leggings_dragonbone"                          : "Dragon Bone Leggings",
@@ -121,33 +126,33 @@
   "item.dragonheart.leggings_dragonsteel_lightning"               : "Lightning Dragon Steel Leggings",
   "item.dragonheart.boots_dragonsteel_lightning"                  : "Lightning Dragon Steel Boots",
 
-  "_comment11" : "Dragon Forge Items",
+  "_comment12" : "Dragon Forge Items",
   "item.dragonheart.powercell"                                    : "Dragon Forge Powercell",
   "item.dragonheart.powercell_fire"                               : "Fire Dragon Forge Powercell",
   "item.dragonheart.powercell_ice"                                : "Ice Dragon Forge Powercell",
   "item.dragonheart.powercell_lightning"                          : "Lightning Dragon Forge Powercell",
 
-  "_comment12" : "Item Groups",
+  "_comment13" : "Item Groups",
   "itemGroup.dragonheart.dragonforge"                             : "Dragon Forges",
 
-  "_comment13" : "Status Effects",
+  "_comment14" : "Status Effects",
   "effect.dragonheart.frozen"                                     : "Frozen",
 
-  "_comment14" : "Screen Display Names",
+  "_comment15" : "Screen Display Names",
   "container.dragonheart.dragonforge_core_base"                   : "§fDragon Forge§r",
   "container.dragonheart.dragonforge_core_fire"                   : "§fFire Dragon Forge§r",
   "container.dragonheart.dragonforge_core_ice"                    : "§fIce Dragon Forge§r",
   "container.dragonheart.dragonforge_core_lightning"              : "§fLightning Dragon Forge§r",
 
-  "_comment15" : "Advancements",
+  "_comment16" : "Advancements",
   "advancement.dragonheart.hoe_dragonsteel_lightning.title"       : "Get a Life",
   "advancement.dragonheart.hoe_dragonsteel_lightning.description" : "Obtain a Lightning Dragonsteel Hoe",
 
-  "_comment16" : "Entities",
+  "_comment17" : "Entities",
   "item.dragonheart.dragonbreath_fire"                            : "Dragon Breath Fire",
   "item.dragonheart.dragonbreath_ice"                             : "Dragon Breath Ice",
 
-  "_comment17" : "Death Messages",
+  "_comment18" : "Death Messages",
   "death.dragonheart.breath.fire"                                 : "%1$s was incinerated",
   "death.dragonheart.breath.ice"                                  : "%1$s was frozen",
   "death.dragonheart.breath.lightning"                            : "%1$s was energised"
