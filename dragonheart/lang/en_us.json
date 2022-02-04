@@ -155,6 +155,10 @@
   "_comment18" : "Death Messages",
   "death.dragonheart.breath.fire"                                 : "%1$s was incinerated",
   "death.dragonheart.breath.ice"                                  : "%1$s was frozen",
-  "death.dragonheart.breath.lightning"                            : "%1$s was energised"
+  "death.dragonheart.breath.lightning"                            : "%1$s was energised",
+
+  "_comment19" : "Command Feedback",
+  "command.dragonheart.dragonmanager.target.not_dragon"           : "%1$s is not a dragon",
+  "command.dragonheart.dragonmanager.set.state"                   : "Set state of %1$s to %2$s"
 
 }
