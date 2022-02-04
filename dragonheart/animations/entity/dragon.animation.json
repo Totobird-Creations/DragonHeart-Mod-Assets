@@ -2,7 +2,7 @@
 	"format_version": "1.8.0",
 	"animations": {
 		"stand": {
-			"loop": "hold_on_last_frame"
+			"loop": true
 		},
 		"fly": {
 			"loop": true,
