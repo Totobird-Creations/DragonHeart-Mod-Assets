@@ -1,7 +1,124 @@
 {
 	"format_version": "1.8.0",
 	"animations": {
+		"sleep": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 0.52,
+			"bones": {
+				"body0": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.52": {
+							"vector": [0, -10, 0],
+							"easing": "easeInOutQuad"
+						}
+					}
+				},
+				"rleg0": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.52": {
+							"vector": [55, 0, 0],
+							"easing": "easeInOutQuad"
+						}
+					}
+				},
+				"rleg1": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.52": {
+							"vector": [-55, 0, 0],
+							"easing": "easeInOutQuad"
+						}
+					}
+				},
+				"lleg0": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.52": {
+							"vector": [55, 0, 0],
+							"easing": "easeInOutQuad"
+						}
+					}
+				},
+				"lleg1": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.52": {
+							"vector": [-55, 0, 0],
+							"easing": "easeInOutQuad"
+						}
+					}
+				},
+				"body1": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.52": {
+							"vector": [5, 7.5, 0],
+							"easing": "easeInOutQuad"
+						}
+					}
+				},
+				"neck0": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.52": {
+							"vector": [5, 10, 0],
+							"easing": "easeInOutQuad"
+						}
+					}
+				},
+				"neck1": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.52": {
+							"vector": [5, 10, 0],
+							"easing": "easeInOutQuad"
+						}
+					}
+				},
+				"neck2": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.52": {
+							"vector": [5, 12.5, 0],
+							"easing": "easeInOutQuad"
+						}
+					}
+				},
+				"head": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.52": {
+							"vector": [-5, 12.5, 0],
+							"easing": "easeInOutQuad"
+						}
+					}
+				}
+			}
+		},
 		"fly_to_walk": {
+			"loop": "hold_on_last_frame",
 			"animation_length": 0.56,
 			"bones": {
 				"rwing0": {
