@@ -68,6 +68,72 @@
 							"easing": "easeInOutQuad"
 						}
 					}
+				},
+				"lwing0": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.52": {
+							"vector": [0, -40, 55],
+							"easing": "easeInOutQuad"
+						}
+					}
+				},
+				"lwing1": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.52": {
+							"vector": [-12.5, 105, 0],
+							"easing": "easeInOutQuad"
+						}
+					}
+				},
+				"lwing2": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.52": {
+							"vector": [0, -70, -2.5],
+							"easing": "easeInOutQuad"
+						}
+					}
+				},
+				"lwing3": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.52": {
+							"vector": [0, -60, -2.5],
+							"easing": "easeInOutQuad"
+						}
+					}
+				},
+				"lwing4": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.52": {
+							"vector": [0, -50, -2.5],
+							"easing": "easeInOutQuad"
+						}
+					}
+				},
+				"lwing5": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.52": {
+							"vector": [0, -40, -2.5],
+							"easing": "easeInOutQuad"
+						}
+					}
 				}
 			},
 			"sound_effects": {},
