@@ -149,8 +149,11 @@
   "advancement.dragonheart.hoe_dragonsteel_lightning.description" : "Obtain a Lightning Dragonsteel Hoe",
 
   "_comment17" : "Entities",
-  "item.dragonheart.dragonbreath_fire"                            : "Dragon Breath Fire",
-  "item.dragonheart.dragonbreath_ice"                             : "Dragon Breath Ice",
+  "item.dragonheart.dragonbreath_fire"                            : "Fire Dragon Breath",
+  "item.dragonheart.dragonbreath_ice"                             : "Ice Dragon Breath",
+  "entity.dragonheart.dragon_fire"                                : "Fire Dragon",
+  "entity.dragonheart.dragon_ice"                                 : "Ice Dragon",
+  "entity.dragonheart.dragon_lightning"                           : "Lightning Dragon",
 
   "_comment18" : "Death Messages",
   "death.dragonheart.breath.fire"                                 : "%1$s was incinerated",

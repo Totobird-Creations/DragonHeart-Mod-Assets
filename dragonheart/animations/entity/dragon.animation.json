@@ -2,7 +2,7 @@
 	"format_version": "1.8.0",
 	"animations": {
 		"fly": {
-			"loop": false,
+			"loop": "hold_on_last_frame",
 			"animation_length": 1.84,
 			"bones": {
 				"body0": {
