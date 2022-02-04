@@ -2,7 +2,7 @@
 	"format_version": "1.8.0",
 	"animations": {
 		"fly": {
-			"loop": true,
+			"loop": false,
 			"animation_length": 1.84,
 			"bones": {
 				"body0": {
