@@ -1,8 +1,11 @@
 {
 	"format_version": "1.8.0",
 	"animations": {
+		"stand": {
+			"loop": "hold_on_last_frame"
+		},
 		"fly": {
-			"loop": "hold_on_last_frame",
+			"loop": true,
 			"animation_length": 1.84,
 			"bones": {
 				"body0": {
