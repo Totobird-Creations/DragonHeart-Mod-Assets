@@ -40,6 +40,10 @@
   "item.dragonheart.dragonheart_fire"                             : "Fire Dragon Heart",
   "item.dragonheart.dragonheart_ice"                              : "Ice Dragon Heart",
   "item.dragonheart.dragonheart_lightning"                        : "Lightning Dragon Heart",
+  "item.dragonheart.dragonbucket"                                 : "Dragon Bucket",
+  "item.dragonheart.dragonbucket_fire"                            : "Fire Dragon in a Bucket",
+  "item.dragonheart.dragonbucket_ice"                             : "Ice Dragon in a Bucket",
+  "item.dragonheart.dragonbucket_lightning"                       : "Lightning Dragon in a Bucket",
 
   "_comment4" : "Food Items",
   "item.dragonheart.dragonmeat_fire"                              : "Fire Dragon Meat",
