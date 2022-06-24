@@ -163,7 +163,6 @@
   "death.dragonheart.breath.fire"                                 : "%1$s was incinerated",
   "death.dragonheart.breath.ice"                                  : "%1$s was frozen",
   "death.dragonheart.breath.lightning"                            : "%1$s was energised",
-  "death.dragonheart.frozen_removed"                              : "%1$s shattered",
 
   "_comment19" : "Command Feedback",
   "command.dragonheart.dragonmanager.target.not_dragon"           : "%1$s is not a dragon",
