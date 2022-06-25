@@ -29,7 +29,12 @@
   "block.dragonheart.dragonforge_hatch_lightning"                 : "Lightning Dragon Forge Hatch",
   "block.dragonheart.dragonforge_support_lightning"               : "Lightning Dragon Forge Support",
 
-  "_comment3" : "Misc Items",
+  "_comment3" : "Other Blocks",
+  "block.dragonheart.dragonsteelblock_fire"                       : "Fire Dragon Steel Block",
+  "block.dragonheart.dragonsteelblock_ice"                        : "Ice Dragon Steel Block",
+  "block.dragonheart.dragonsteelblock_lightning"                  : "Lightning Dragon Steel Block",
+
+  "_comment4" : "Misc Items",
   "item.dragonheart.dragonbone"                                   : "Dragon Bone",
   "item.dragonheart.dragonstone"                                  : "Dragonstone",
   "item.dragonheart.bonehilt"                                     : "Bone Hilt",
@@ -45,12 +50,12 @@
   "item.dragonheart.dragonbucket_ice"                             : "Ice Dragon in a Bucket",
   "item.dragonheart.dragonbucket_lightning"                       : "Lightning Dragon in a Bucket",
 
-  "_comment4" : "Food Items",
+  "_comment5" : "Food Items",
   "item.dragonheart.dragonmeat_fire"                              : "Fire Dragon Meat",
   "item.dragonheart.dragonmeat_ice"                               : "Ice Dragon Meat",
   "item.dragonheart.dragonmeat_lightning"                         : "Lightning Dragon Meat",
 
-  "_comment5" : "Sword Itmes",
+  "_comment6" : "Sword Itmes",
   "item.dragonheart.sword_dragonbone"                             : "Dragon Bone Sword",
   "item.dragonheart.sword_dragonbone_fire"                        : "Fire Dragon Bone Sword",
   "item.dragonheart.sword_dragonbone_ice"                         : "Ice Dragon Bone Sword",
@@ -59,7 +64,7 @@
   "item.dragonheart.sword_dragonsteel_ice"                        : "Ice Dragon Steel Sword",
   "item.dragonheart.sword_dragonsteel_lightning"                  : "Lightning Dragon Steel Sword",
 
-  "_comment6" : "Pickaxe Itmes",
+  "_comment7" : "Pickaxe Itmes",
   "item.dragonheart.pickaxe_dragonbone"                           : "Dragon Bone Pickaxe",
   "item.dragonheart.pickaxe_dragonbone_fire"                      : "Fire Dragon Bone Pickaxe",
   "item.dragonheart.pickaxe_dragonbone_ice"                       : "Ice Dragon Bone Pickaxe",
@@ -68,7 +73,7 @@
   "item.dragonheart.pickaxe_dragonsteel_ice"                      : "Ice Dragon Steel Pickaxe",
   "item.dragonheart.pickaxe_dragonsteel_lightning"                : "Lightning Dragon Steel Pickaxe",
 
-  "_comment7" : "Axe Itmes",
+  "_comment8" : "Axe Itmes",
   "item.dragonheart.axe_dragonbone"                               : "Dragon Bone Axe",
   "item.dragonheart.axe_dragonbone_fire"                          : "Fire Dragon Bone Axe",
   "item.dragonheart.axe_dragonbone_ice"                           : "Ice Dragon Bone Axe",
@@ -77,7 +82,7 @@
   "item.dragonheart.axe_dragonsteel_ice"                          : "Ice Dragon Steel Axe",
   "item.dragonheart.axe_dragonsteel_lightning"                    : "Lightning Dragon Steel Axe",
 
-  "_comment8" : "Axe Itmes",
+  "_comment9" : "Axe Itmes",
   "item.dragonheart.shovel_dragonbone"                            : "Dragon Bone Shovel",
   "item.dragonheart.shovel_dragonbone_fire"                       : "Fire Dragon Bone Shovel",
   "item.dragonheart.shovel_dragonbone_ice"                        : "Ice Dragon Bone Shovel",
@@ -86,7 +91,7 @@
   "item.dragonheart.shovel_dragonsteel_ice"                       : "Ice Dragon Steel Shovel",
   "item.dragonheart.shovel_dragonsteel_lightning"                 : "Lightning Dragon Steel Shovel",
 
-  "_comment9" : "Hoe Itmes",
+  "_comment10" : "Hoe Itmes",
   "item.dragonheart.hoe_dragonbone"                               : "Dragon Bone Hoe",
   "item.dragonheart.hoe_dragonbone_fire"                          : "Fire Dragon Bone Hoe",
   "item.dragonheart.hoe_dragonbone_ice"                           : "Ice Dragon Bone Hoe",
@@ -95,12 +100,12 @@
   "item.dragonheart.hoe_dragonsteel_ice"                          : "Ice Dragon Steel Hoe",
   "item.dragonheart.hoe_dragonsteel_lightning"                    : "Lightning Dragon Steel Hoe",
 
-  "_comment10" : "Staff Itmes",
+  "_comment11" : "Staff Itmes",
   "item.dragonheart.staff_fire"                                   : "Fire Staff",
   "item.dragonheart.staff_ice"                                    : "Ice Staff",
   "item.dragonheart.staff_lightning"                              : "Lightning Staff",
 
-  "_comment11" : "Armour Itmes",
+  "_comment12" : "Armour Itmes",
   "item.dragonheart.helmet_dragonbone"                            : "Dragon Bone Helmet",
   "item.dragonheart.chestplate_dragonbone"                        : "Dragon Bone Chestplate",
   "item.dragonheart.leggings_dragonbone"                          : "Dragon Bone Leggings",
@@ -130,42 +135,45 @@
   "item.dragonheart.leggings_dragonsteel_lightning"               : "Lightning Dragon Steel Leggings",
   "item.dragonheart.boots_dragonsteel_lightning"                  : "Lightning Dragon Steel Boots",
 
-  "_comment12" : "Dragon Forge Items",
+  "_comment13" : "Dragon Forge Items",
   "item.dragonheart.powercell"                                    : "Dragon Forge Powercell",
   "item.dragonheart.powercell_fire"                               : "Fire Dragon Forge Powercell",
   "item.dragonheart.powercell_ice"                                : "Ice Dragon Forge Powercell",
   "item.dragonheart.powercell_lightning"                          : "Lightning Dragon Forge Powercell",
 
-  "_comment13" : "Item Groups",
+  "_comment14" : "Item Groups",
   "itemGroup.dragonheart.dragonforge"                             : "Dragon Forges",
 
-  "_comment14" : "Status Effects",
+  "_comment15" : "Status Effects",
   "effect.dragonheart.frozen"                                     : "Frozen",
 
-  "_comment15" : "Screen Display Names",
+  "_comment16" : "Screen Display Names",
   "container.dragonheart.dragonforge_core_base"                   : "§fDragon Forge§r",
   "container.dragonheart.dragonforge_core_fire"                   : "§fFire Dragon Forge§r",
   "container.dragonheart.dragonforge_core_ice"                    : "§fIce Dragon Forge§r",
   "container.dragonheart.dragonforge_core_lightning"              : "§fLightning Dragon Forge§r",
 
-  "_comment16" : "Advancements",
+  "_comment17" : "Advancements",
   "advancement.dragonheart.hoe_dragonsteel_lightning.title"       : "Get a Life",
   "advancement.dragonheart.hoe_dragonsteel_lightning.description" : "Obtain a Lightning Dragonsteel Hoe",
 
-  "_comment17" : "Entities",
+  "_comment18" : "Entities",
   "item.dragonheart.dragonbreath_fire"                            : "Fire Dragon Breath",
   "item.dragonheart.dragonbreath_ice"                             : "Ice Dragon Breath",
   "entity.dragonheart.dragon_fire"                                : "Fire Dragon",
   "entity.dragonheart.dragon_ice"                                 : "Ice Dragon",
   "entity.dragonheart.dragon_lightning"                           : "Lightning Dragon",
 
-  "_comment18" : "Death Messages",
+  "_comment19" : "Death Messages",
   "death.dragonheart.breath.fire"                                 : "%1$s was incinerated",
   "death.dragonheart.breath.ice"                                  : "%1$s was frozen",
   "death.dragonheart.breath.lightning"                            : "%1$s was energised",
 
-  "_comment19" : "Command Feedback",
+  "_comment20" : "Command Feedback",
   "command.dragonheart.dragonmanager.target.not_dragon"           : "%1$s is not a dragon",
-  "command.dragonheart.dragonmanager.set.state"                   : "Set state of %1$s to %2$s"
+  "command.dragonheart.dragonmanager.set.state"                   : "Set state of %1$s to %2$s",
+
+  "_comment21" : "Gamerules",
+  "gamerule.dragonsteelBlockUnbreakable"                          : "Unbreakable dragon steel blocks"
 
 }

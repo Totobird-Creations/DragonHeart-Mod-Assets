@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=up": {"model":  "dragonheart:block/dragonsteelblock_fire"},
+    "facing=down": {"model":  "dragonheart:block/dragonsteelblock_fire", "x": 180},
+    "facing=north": {"model":  "dragonheart:block/dragonsteelblock_fire", "x": 90},
+    "facing=east": {"model":  "dragonheart:block/dragonsteelblock_fire", "x": 90, "y": 90},
+    "facing=south": {"model":  "dragonheart:block/dragonsteelblock_fire", "x": 90, "y": 180},
+    "facing=west": {"model":  "dragonheart:block/dragonsteelblock_fire", "x": 90, "y": 270}
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "dragonheart:block/dragonsteelblock",
+  "textures": {
+    "breakable": "dragonheart:block/dragonsteelblock_fire",
+    "shield": "dragonheart:block/dragonsteelblock_fire_shield"
+  }
+}
