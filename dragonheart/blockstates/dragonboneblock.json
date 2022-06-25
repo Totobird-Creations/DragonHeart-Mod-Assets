@@ -1,7 +1,16 @@
 {
     "variants" : {
-        "" : {
+        "axis=y" : {
             "model" : "dragonheart:block/dragonboneblock"
+        },
+        "axis=x" : {
+            "model" : "dragonheart:block/dragonboneblock",
+            "x" : 90,
+            "y" : 90
+        },
+        "axis=z" : {
+            "model" : "dragonheart:block/dragonboneblock",
+            "x" : 90
         }
     }
 }

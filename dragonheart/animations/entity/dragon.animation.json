@@ -4,32 +4,32 @@
 		"animation.dragon.stand": {
 			"loop": "hold_on_last_frame",
 			"bones": {
-				"rleg0": {
+				"blleg0": {
 					"rotation": {
 						"vector": [0, 0, 0]
 					}
 				},
-				"rleg1": {
+				"blleg1": {
 					"rotation": {
 						"vector": [0, 0, 0]
 					}
 				},
-				"rleg_foot": {
+				"blleg_foot": {
 					"rotation": {
 						"vector": [0, 0, 0]
 					}
 				},
-				"lleg0": {
+				"brleg0": {
 					"rotation": {
 						"vector": [0, 0, 0]
 					}
 				},
-				"lleg1": {
+				"brleg1": {
 					"rotation": {
 						"vector": [0, 0, 0]
 					}
 				},
-				"lleg_foot": {
+				"brleg_foot": {
 					"rotation": {
 						"vector": [0, 0, 0]
 					}
