@@ -158,8 +158,6 @@
   "advancement.dragonheart.hoe_dragonsteel_lightning.description" : "Obtain a Lightning Dragonsteel Hoe",
 
   "_comment18" : "Entities",
-  "item.dragonheart.dragonbreath_fire"                            : "Fire Dragon Breath",
-  "item.dragonheart.dragonbreath_ice"                             : "Ice Dragon Breath",
   "entity.dragonheart.dragon_fire"                                : "Fire Dragon",
   "entity.dragonheart.dragon_ice"                                 : "Ice Dragon",
   "entity.dragonheart.dragon_lightning"                           : "Lightning Dragon",
@@ -171,7 +169,10 @@
 
   "_comment20" : "Command Feedback",
   "command.dragonheart.dragonmanager.target.not_dragon"           : "%1$s is not a dragon",
+  "command.dragonheart.dragonmanager.state.sleep"                 : "SLEEP",
+  "command.dragonheart.dragonmanager.state.nest"                  : "RETURN TO NEST",
   "command.dragonheart.dragonmanager.set.state"                   : "Set state of %1$s to %2$s",
+  "command.dragonheart.dragonmanager.get.state"                   : "State of %1$s is %2$s",
 
   "_comment21" : "Gamerules",
   "gamerule.dragonsteelBlockUnbreakable"                          : "Unbreakable dragon steel blocks"
