@@ -1,0 +1,49 @@
+{
+  "targets": [
+    "desaturate",
+    "blurx",
+    "blury",
+    "contrast",
+    "modulate"
+  ],
+  "passes": [
+    {
+      "name": "minecraft:color_convolve",
+      "intarget": "minecraft:main",
+      "outtarget": "desaturate",
+      "uniforms": [
+        {
+          "name": "Saturation",
+          "values": [1.0]
+        }
+      ]
+    },
+    {
+        "name": "dragonheart:contrast",
+        "intarget": "desaturate",
+        "outtarget": "contrast",
+        "uniforms": [
+          {
+            "name": "Contrast",
+            "values": [0.0]
+          }
+        ]
+    },
+    {
+        "name": "dragonheart:modulate",
+        "intarget": "contrast",
+        "outtarget": "modulate",
+        "uniforms": [
+          {
+            "name": "Modulate",
+            "values": [1.0, 1.0, 1.0]
+          }
+        ]
+    },
+    {
+      "name": "minecraft:blit",
+      "intarget": "modulate",
+      "outtarget": "minecraft:main"
+    }
+  ]
+}

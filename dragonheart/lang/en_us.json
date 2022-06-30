@@ -146,6 +146,7 @@
 
   "_comment15" : "Status Effects",
   "effect.dragonheart.frozen"                                     : "Frozen",
+  "effect.dragonheart.deafened"                                   : "Deafened",
 
   "_comment16" : "Screen Display Names",
   "container.dragonheart.dragonforge_core_base"                   : "§fDragon Forge§r",
@@ -166,6 +167,7 @@
   "death.dragonheart.breath.fire"                                 : "%1$s was incinerated",
   "death.dragonheart.breath.ice"                                  : "%1$s was frozen",
   "death.dragonheart.breath.lightning"                            : "%1$s was energised",
+  "death.dragonheart.roar"                                        : "%1$s's eardrums exploded",
 
   "_comment20" : "Command Feedback",
   "command.dragonheart.dragonmanager.target.not_dragon"           : "%1$s is not a dragon",
