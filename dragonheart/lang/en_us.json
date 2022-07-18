@@ -1,4 +1,6 @@
 {
+  "titlescreen.notice"                                            : "DragonHeart Mod - Totobird Creations",
+
   "_comment0" : "Misc Blocks",
   "block.dragonheart.dragonboneblock"                             : "Dragon Bone Block",
 
@@ -49,6 +51,9 @@
   "item.dragonheart.dragonbucket_fire"                            : "Fire Dragon in a Bucket",
   "item.dragonheart.dragonbucket_ice"                             : "Ice Dragon in a Bucket",
   "item.dragonheart.dragonbucket_lightning"                       : "Lightning Dragon in a Bucket",
+  "item.dragonheart.dragonegg_fire"                               : "Fire Dragon Egg",
+  "item.dragonheart.dragonegg_ice"                                : "Ice Dragon Egg",
+  "item.dragonheart.dragonegg_lightning"                          : "Lightning Dragon Egg",
 
   "_comment5" : "Food Items",
   "item.dragonheart.dragonmeat_fire"                              : "Fire Dragon Meat",
@@ -162,6 +167,9 @@
   "entity.dragonheart.dragon_fire"                                : "Fire Dragon",
   "entity.dragonheart.dragon_ice"                                 : "Ice Dragon",
   "entity.dragonheart.dragon_lightning"                           : "Lightning Dragon",
+  "entity.dragonheart.dragonegg_fire"                             : "Fire Dragon Egg",
+  "entity.dragonheart.dragonegg_ice"                              : "Ice Dragon Egg",
+  "entity.dragonheart.dragonegg_lightning"                        : "Lightning Dragon Egg",
 
   "_comment19" : "Death Messages",
   "death.dragonheart.breath.fire"                                 : "%1$s was incinerated",
