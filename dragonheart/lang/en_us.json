@@ -41,9 +41,6 @@
   "item.dragonheart.dragonstone"                                  : "Dragonstone",
   "item.dragonheart.bonehilt"                                     : "Bone Hilt",
   "item.dragonheart.dragonscale"                                  : "Dragon Scales",
-  "item.dragonheart.dragonblood_fire"                             : "Fire Dragon Blood",
-  "item.dragonheart.dragonblood_ice"                              : "Ice Dragon Blood",
-  "item.dragonheart.dragonblood_lightning"                        : "Lightning Dragon Blood",
   "item.dragonheart.dragonheart_fire"                             : "Fire Dragon Heart",
   "item.dragonheart.dragonheart_ice"                              : "Ice Dragon Heart",
   "item.dragonheart.dragonheart_lightning"                        : "Lightning Dragon Heart",
@@ -185,6 +182,21 @@
   "command.dragonheart.dragonmanager.get.state"                   : "State of %1$s is %2$s",
 
   "_comment21" : "Gamerules",
-  "gamerule.dragonsteelBlockUnbreakable"                          : "Unbreakable dragon steel blocks"
+  "gamerule.dragonsteelBlockUnbreakable"                          : "Unbreakable dragon steel blocks",
 
+  "_comment22" : "Potions",
+  "item.minecraft.potion.effect.dragonblood_fire"                 : "Fire Dragon Blood",
+  "item.minecraft.potion.effect.dragonblood_ice"                  : "Ice Dragon Blood",
+  "item.minecraft.potion.effect.dragonblood_lightning"            : "Lightning Dragon Blood",
+  "item.minecraft.splash_potion.effect.dragonblood_fire"          : "Splash Fire Dragon Blood",
+  "item.minecraft.splash_potion.effect.dragonblood_ice"           : "Splash Ice Dragon Blood",
+  "item.minecraft.splash_potion.effect.dragonblood_lightning"     : "Splash Lightning Dragon Blood",
+  "item.minecraft.lingering_potion.effect.dragonblood_fire"       : "Lingering Fire Dragon Blood",
+  "item.minecraft.lingering_potion.effect.dragonblood_ice"        : "Lingering Ice Dragon Blood",
+  "item.minecraft.lingering_potion.effect.dragonblood_lightning"  : "Lingering Lightning Dragon Blood",
+
+  "_comment23" : "Sound Events",
+  "sound.dragonheart.dragonegg.place"                             : "Dragon Egg Placed",
+  "sound.dragonheart.dragonegg.break"                             : "Dragon Egg Broken",
+  "sound.dragonheart.dragonegg.hatch"                             : "Dragon Egg Hatched"
 }
