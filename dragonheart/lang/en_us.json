@@ -1,5 +1,5 @@
 {
-  "titlescreen.notice"                                            : "DragonHeart Mod - Totobird Creations",
+  "titlescreen.dragonheart.notice"                                : "DragonHeart Mod - Totobird Creations",
 
   "_comment0" : "Misc Blocks",
   "block.dragonheart.dragonboneblock"                             : "Dragon Bone Block",
@@ -51,6 +51,11 @@
   "item.dragonheart.dragonegg_fire"                               : "Fire Dragon Egg",
   "item.dragonheart.dragonegg_ice"                                : "Ice Dragon Egg",
   "item.dragonheart.dragonegg_lightning"                          : "Lightning Dragon Egg",
+  "item.dragonheart.dragonegg_creative_fire"                      : "Creative Fire Dragon Egg",
+  "item.dragonheart.dragonegg_creative_ice"                       : "Creative Ice Dragon Egg",
+  "item.dragonheart.dragonegg_creative_lightning"                 : "Creative Lightning Dragon Egg",
+  "item.dragonheart.dragonegg_creative.tooltip.0"                 : "§eEnter a hexadecimal code (#??????) in an§r",
+  "item.dragonheart.dragonegg_creative.tooltip.1"                 : "§eanvil to change the colour of this item.§r",
 
   "_comment5" : "Food Items",
   "item.dragonheart.dragonmeat_fire"                              : "Fire Dragon Meat",
@@ -155,6 +160,8 @@
   "container.dragonheart.dragonforge_core_fire"                   : "§fFire Dragon Forge§r",
   "container.dragonheart.dragonforge_core_ice"                    : "§fIce Dragon Forge§r",
   "container.dragonheart.dragonforge_core_lightning"              : "§fLightning Dragon Forge§r",
+  "container.minecraft.anvil.dragonheart.dragonegg.success"       : "✔",
+  "container.minecraft.anvil.dragonheart.dragonegg.failure"       : "Invalid code ✘",
 
   "_comment17" : "Advancements",
   "advancement.dragonheart.hoe_dragonsteel_lightning.title"       : "Get a Life",
