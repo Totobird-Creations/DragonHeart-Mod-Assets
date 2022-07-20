@@ -160,8 +160,6 @@
   "container.dragonheart.dragonforge_core_fire"                   : "§fFire Dragon Forge§r",
   "container.dragonheart.dragonforge_core_ice"                    : "§fIce Dragon Forge§r",
   "container.dragonheart.dragonforge_core_lightning"              : "§fLightning Dragon Forge§r",
-  "container.minecraft.anvil.dragonheart.dragonegg.success"       : "✔",
-  "container.minecraft.anvil.dragonheart.dragonegg.failure"       : "Invalid code ✘",
 
   "_comment17" : "Advancements",
   "advancement.dragonheart.hoe_dragonsteel_lightning.title"       : "Get a Life",
