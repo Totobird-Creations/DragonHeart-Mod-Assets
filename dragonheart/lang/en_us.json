@@ -156,10 +156,11 @@
   "effect.dragonheart.deafened"                                   : "Deafened",
 
   "_comment16" : "Screen Display Names",
-  "container.dragonheart.dragonforge_core_base"                   : "§fDragon Forge§r",
-  "container.dragonheart.dragonforge_core_fire"                   : "§fFire Dragon Forge§r",
-  "container.dragonheart.dragonforge_core_ice"                    : "§fIce Dragon Forge§r",
-  "container.dragonheart.dragonforge_core_lightning"              : "§fLightning Dragon Forge§r",
+  "screen.dragonheart.config.title"                               : "DragonHeart Config",
+  "screen.dragonheart.dragonforge_core_base"                      : "§fDragon Forge§r",
+  "screen.dragonheart.dragonforge_core_fire"                      : "§fFire Dragon Forge§r",
+  "screen.dragonheart.dragonforge_core_ice"                       : "§fIce Dragon Forge§r",
+  "screen.dragonheart.dragonforge_core_lightning"                 : "§fLightning Dragon Forge§r",
 
   "_comment17" : "Advancements",
   "advancement.dragonheart.hoe_dragonsteel_lightning.title"       : "Get a Life",
