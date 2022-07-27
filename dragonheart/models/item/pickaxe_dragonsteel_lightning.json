@@ -1,6 +1,6 @@
 {
-	"parent": "dragonheart:item/pickaxe",
+	"parent": "${id}:item/pickaxe",
 	"textures": {
-		"layer0": "dragonheart:item/pickaxe_dragonsteel_lightning"
+		"layer0": "${id}:item/pickaxe_dragonsteel_lightning"
 	}
 }

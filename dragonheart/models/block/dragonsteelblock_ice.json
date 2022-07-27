@@ -1,7 +1,7 @@
 {
-  "parent": "dragonheart:block/dragonsteelblock",
+  "parent": "${id}:block/dragonsteelblock",
   "textures": {
-    "breakable": "dragonheart:block/dragonsteelblock_ice",
-    "shield": "dragonheart:block/dragonsteelblock_ice_shield"
+    "breakable": "${id}:block/dragonsteelblock_ice",
+    "shield": "${id}:block/dragonsteelblock_ice_shield"
   }
 }

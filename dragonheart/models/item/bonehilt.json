@@ -1,6 +1,6 @@
 {
-	"parent": "dragonheart:item/handheld",
+	"parent": "${id}:item/handheld",
 	"textures": {
-		"layer0": "dragonheart:item/bonehilt"
+		"layer0": "${id}:item/bonehilt"
 	}
 }

@@ -1,3 +1,3 @@
 {
-	"parent": "dragonheart:item/handheld_weapon"
+	"parent": "${id}:item/handheld_weapon"
 }

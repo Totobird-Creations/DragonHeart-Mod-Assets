@@ -1,6 +1,6 @@
 {
-	"parent": "dragonheart:item/axe",
+	"parent": "${id}:item/axe",
 	"textures": {
-		"layer0": "dragonheart:item/axe_dragonsteel_lightning"
+		"layer0": "${id}:item/axe_dragonsteel_lightning"
 	}
 }

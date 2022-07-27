@@ -1,6 +1,6 @@
 {
   "dragonegg.place": {
-    "subtitle": "sound.dragonheart.dragonegg.place",
+    "subtitle": "sound.${id}.dragonegg.place",
     "sounds": [
       "minecraft:mob/turtle/egg/egg_crack1",
       "minecraft:mob/turtle/egg/egg_crack2",
@@ -10,14 +10,14 @@
     ]
   },
   "dragonegg.break": {
-    "subtitle": "sound.dragonheart.dragonegg.break",
+    "subtitle": "sound.${id}.dragonegg.break",
     "sounds": [
       "minecraft:mob/turtle/egg/egg_break1",
       "minecraft:mob/turtle/egg/egg_break2"
     ]
   },
   "dragonegg.hatch": {
-    "subtitle": "sound.dragonheart.dragonegg.hatch",
+    "subtitle": "sound.${id}.dragonegg.hatch",
     "sounds": [
       "minecraft:mob/turtle/egg/egg_hatched1",
       "minecraft:mob/turtle/egg/egg_hatched2"

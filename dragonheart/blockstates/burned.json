@@ -1,7 +1,7 @@
 {
     "variants" : {
         "" : {
-            "model" : "dragonheart:block/burned"
+            "model" : "${id}:block/burned"
         }
     }
 }

@@ -1,9 +1,8 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "dragonheart:block/dragonforge_bricks_base_window",
-		"1": "dragonheart:block/dragonforge_bricks_base",
-		"particle": "dragonheart:block/dragonforge_bricks_base_window"
+		"0": "${id}:block/dragonforge_bricks_base_window",
+		"1": "${id}:block/dragonforge_bricks_base",
+		"particle": "${id}:block/dragonforge_bricks_base_window"
 	},
 	"elements": [
 		{

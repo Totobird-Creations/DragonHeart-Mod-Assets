@@ -5,7 +5,7 @@
         "dstrgb": "zero"
     },
     "vertex": "minecraft:sobel",
-    "fragment": "dragonheart:blur",
+    "fragment": "${id}:blur",
     "attributes": [ "Position" ],
     "samplers": [
         { "name": "DiffuseSampler" }

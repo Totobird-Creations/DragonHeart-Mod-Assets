@@ -1,10 +1,10 @@
 {
     "variants" : {
         "powered=false" : {
-            "model" : "dragonheart:block/dragonforge_hatch_ice_off"
+            "model" : "${id}:block/dragonforge_hatch_ice_off"
         },
         "powered=true" : {
-            "model" : "dragonheart:block/dragonforge_hatch_ice_on"
+            "model" : "${id}:block/dragonforge_hatch_ice_on"
         }
     }
 }

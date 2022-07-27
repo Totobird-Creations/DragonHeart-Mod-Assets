@@ -1,6 +1,6 @@
 {
-	"parent": "dragonheart:item/hoe",
+	"parent": "${id}:item/hoe",
 	"textures": {
-		"layer0": "dragonheart:item/hoe_dragonbone_lightning"
+		"layer0": "${id}:item/hoe_dragonbone_lightning"
 	}
 }

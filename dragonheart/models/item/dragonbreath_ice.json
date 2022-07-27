@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "dragonheart:item/dragonbreath_ice"
+		"layer0": "${id}:item/dragonbreath_ice"
 	}
 }

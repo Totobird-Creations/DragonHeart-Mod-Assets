@@ -1,5 +1,5 @@
 {
     "textures" : [
-        "dragonheart:dragonbreath_ice"
+        "${id}:dragonbreath_ice"
     ]
 }

@@ -1,7 +1,7 @@
 {
     "variants" : {
         "" : {
-            "model" : "dragonheart:block/dragonforge_window_fire"
+            "model" : "${id}:block/dragonforge_window_fire"
         }
     }
 }

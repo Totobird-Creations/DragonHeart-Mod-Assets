@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "dragonheart:item/chestplate_dragonbone_lightning"
+    "layer0": "${id}:item/chestplate_dragonbone_lightning"
   }
 }

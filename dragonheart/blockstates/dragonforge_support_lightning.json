@@ -1,7 +1,7 @@
 {
     "variants" : {
         "" : {
-            "model" : "dragonheart:block/dragonforge_support_lightning"
+            "model" : "${id}:block/dragonforge_support_lightning"
         }
     }
 }

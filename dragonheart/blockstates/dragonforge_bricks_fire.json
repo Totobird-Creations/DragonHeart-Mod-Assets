@@ -1,13 +1,13 @@
 {
     "variants" : {
         "vent=false" : {
-            "model" : "dragonheart:block/dragonforge_bricks_fire"
+            "model" : "${id}:block/dragonforge_bricks_fire"
         },
         "vent=true,powered=false" : {
-            "model" : "dragonheart:block/dragonforge_bricks_fire_vent_off"
+            "model" : "${id}:block/dragonforge_bricks_fire_vent_off"
         },
         "vent=true,powered=true" : {
-            "model" : "dragonheart:block/dragonforge_bricks_fire_vent_on"
+            "model" : "${id}:block/dragonforge_bricks_fire_vent_on"
         }
     }
 }

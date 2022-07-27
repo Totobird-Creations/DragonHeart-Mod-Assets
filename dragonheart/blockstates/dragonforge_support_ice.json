@@ -1,7 +1,7 @@
 {
     "variants" : {
         "" : {
-            "model" : "dragonheart:block/dragonforge_support_ice"
+            "model" : "${id}:block/dragonforge_support_ice"
         }
     }
 }

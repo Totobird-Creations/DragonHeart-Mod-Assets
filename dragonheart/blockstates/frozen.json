@@ -1,7 +1,7 @@
 {
     "variants" : {
         "" : {
-            "model" : "dragonheart:block/frozen"
+            "model" : "${id}:block/frozen"
         }
     }
 }

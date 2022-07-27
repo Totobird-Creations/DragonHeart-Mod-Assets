@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "dragonheart:block/burned"
+    "all": "${id}:block/burned"
   }
 }

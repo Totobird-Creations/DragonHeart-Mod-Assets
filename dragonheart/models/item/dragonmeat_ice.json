@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "dragonheart:item/dragonmeat_ice"
+    "layer0": "${id}:item/dragonmeat_ice"
   }
 }

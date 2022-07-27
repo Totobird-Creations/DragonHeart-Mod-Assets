@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-      "layer0": "dragonheart:item/dragonbucket_fire",
-      "layer1": "dragonheart:item/dragonbucket_overlay"
+      "layer0": "${id}:item/dragonbucket_fire",
+      "layer1": "${id}:item/dragonbucket_overlay"
   }
 }

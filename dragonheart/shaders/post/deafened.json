@@ -19,7 +19,7 @@
       ]
     },
     {
-        "name": "dragonheart:contrast",
+        "name": "${id}:contrast",
         "intarget": "desaturate",
         "outtarget": "contrast",
         "uniforms": [
@@ -30,7 +30,7 @@
         ]
     },
     {
-        "name": "dragonheart:modulate",
+        "name": "${id}:modulate",
         "intarget": "contrast",
         "outtarget": "modulate",
         "uniforms": [

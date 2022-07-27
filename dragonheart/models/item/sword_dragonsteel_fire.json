@@ -1,6 +1,6 @@
 {
-	"parent": "dragonheart:item/sword",
+	"parent": "${id}:item/sword",
 	"textures": {
-		"layer0": "dragonheart:item/sword_dragonsteel_fire"
+		"layer0": "${id}:item/sword_dragonsteel_fire"
 	}
 }
