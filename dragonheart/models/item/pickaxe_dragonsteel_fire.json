@@ -1,6 +1,0 @@
-{
-	"parent": "${id}:item/pickaxe",
-	"textures": {
-		"layer0": "${id}:item/pickaxe_dragonsteel_fire"
-	}
-}

@@ -1,0 +1,17 @@
+{
+    "parent": "${id}:block/piece/cube_column",
+    "textures": {
+        "side0": "${id}:block/piece/bricks",
+        "side1": "${id}:block/piece/cracks",
+        "side2": "${id}:block/piece/incubator_side_underlay",
+        "side3": "${id}:misc/empty",
+        "up0": "${id}:block/piece/bricks",
+        "up1": "${id}:block/piece/cracks",
+        "up2": "${id}:block/piece/incubator_top_underlay",
+        "up3": "${id}:misc/empty",
+        "down0": "${id}:block/piece/bricks",
+        "down1": "${id}:block/piece/cracks",
+        "down2": "${id}:misc/empty",
+        "down3": "${id}:misc/empty"
+    }
+}

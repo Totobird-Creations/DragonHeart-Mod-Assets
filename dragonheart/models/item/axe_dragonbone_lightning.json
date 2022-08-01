@@ -1,6 +1,0 @@
-{
-	"parent": "${id}:item/axe",
-	"textures": {
-		"layer0": "${id}:item/axe_dragonbone_lightning"
-	}
-}

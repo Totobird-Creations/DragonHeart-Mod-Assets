@@ -1,0 +1,10 @@
+{
+  "defaultMap": {
+    "spriteMap": [
+      {
+        "sprite": "dragonheart:item/dragonbreath",
+        "material": "canvas:luminance_glow"
+      }
+    ]
+  }
+}

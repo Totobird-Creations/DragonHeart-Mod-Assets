@@ -1,0 +1,7 @@
+{
+    "parent": "${id}:block/dragon_forge_bricks/vent_window_off",
+    "textures": {
+        "side3": "${id}:block/piece/vent",
+        "end3": "${id}:block/piece/window"
+    }
+}

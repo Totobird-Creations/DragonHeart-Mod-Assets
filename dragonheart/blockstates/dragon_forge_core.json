@@ -1,0 +1,10 @@
+{
+    "variants" : {
+        "powered=false" : {
+            "model" : "${id}:block/dragon_forge_core/off"
+        },
+        "powered=true" : {
+            "model" : "${id}:block/dragon_forge_core/on"
+        }
+    }
+}

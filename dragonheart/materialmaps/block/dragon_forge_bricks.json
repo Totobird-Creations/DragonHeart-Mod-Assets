@@ -1,0 +1,14 @@
+{
+  "defaultMap": {
+    "spriteMap": [
+      {
+        "sprite": "dragonheart:block/piece/vent",
+        "material": "dragonheart:dragon_forge_glow"
+      },
+      {
+        "sprite": "dragonheart:block/piece/window",
+        "material": "dragonheart:dragon_forge_glow"
+      }
+    ]
+  }
+}

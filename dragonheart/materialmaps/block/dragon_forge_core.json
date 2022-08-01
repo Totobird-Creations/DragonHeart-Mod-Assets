@@ -1,0 +1,14 @@
+{
+  "defaultMap": {
+    "spriteMap": [
+      {
+        "sprite": "dragonheart:block/piece/core_side",
+        "material": "dragonheart:dragon_forge_glow"
+      },
+      {
+        "sprite": "dragonheart:block/piece/core_end",
+        "material": "dragonheart:dragon_forge_glow"
+      }
+    ]
+  }
+}

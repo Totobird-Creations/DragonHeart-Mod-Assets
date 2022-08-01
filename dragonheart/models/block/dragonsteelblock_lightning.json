@@ -1,7 +1,0 @@
-{
-  "parent": "${id}:block/dragonsteelblock",
-  "textures": {
-    "breakable": "${id}:block/dragonsteelblock_lightning",
-    "shield": "${id}:block/dragonsteelblock_lightning_shield"
-  }
-}

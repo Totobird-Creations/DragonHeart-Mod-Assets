@@ -1,0 +1,9 @@
+{
+    "parent": "${id}:block/piece/cube_all",
+    "textures": {
+        "all0": "${id}:block/piece/bricks",
+        "all1": "${id}:block/piece/cracks",
+        "all2": "${id}:block/piece/support",
+        "all3": "${id}:misc/empty"
+    }
+}

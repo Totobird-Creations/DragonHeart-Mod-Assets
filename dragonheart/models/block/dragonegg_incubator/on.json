@@ -1,0 +1,7 @@
+{
+    "parent": "${id}:block/dragonegg_incubator/off",
+    "textures": {
+        "side3": "${id}:block/piece/incubator_side",
+        "up3": "${id}:block/piece/incubator_top"
+    }
+}

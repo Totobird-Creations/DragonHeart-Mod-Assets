@@ -1,6 +1,0 @@
-{
-	"parent": "${id}:item/shovel",
-	"textures": {
-		"layer0": "${id}:item/shovel_dragonbone"
-	}
-}

@@ -1,7 +1,0 @@
-{
-  "parent": "${id}:block/dragonforge_window",
-  "textures": {
-    "bricks": "${id}:block/dragonforge_bricks_lightning",
-    "window": "${id}:block/dragonforge_bricks_lightning_window"
-  }
-}

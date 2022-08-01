@@ -1,6 +1,0 @@
-{
-	"parent": "${id}:item/sword",
-	"textures": {
-		"layer0": "${id}:item/sword_dragonbone"
-	}
-}

@@ -1,0 +1,10 @@
+{
+  "defaultMap": {
+    "spriteMap": [
+      {
+        "sprite": "dragonheart:block/piece/hatch",
+        "material": "dragonheart:dragon_forge_glow"
+      }
+    ]
+  }
+}

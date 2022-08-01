@@ -1,0 +1,10 @@
+{
+  "defaultMap": {
+    "spriteMap": [
+      {
+        "sprite": "dragonheart:item/dragonblood",
+        "material": "dragonheart:dragonblood"
+      }
+    ]
+  }
+}

@@ -1,6 +1,0 @@
-{
-	"parent": "${id}:item/hoe",
-	"textures": {
-		"layer0": "${id}:item/hoe_dragonbone_fire"
-	}
-}

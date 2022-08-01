@@ -1,0 +1,28 @@
+{
+    "variants" : {
+        "vent=false,window=false,powered=false" : {
+            "model" : "${id}:block/dragon_forge_bricks/off"
+        },
+        "vent=false,window=false,powered=true" : {
+            "model" : "${id}:block/dragon_forge_bricks/on"
+        },
+        "vent=false,window=true,powered=false" : {
+            "model" : "${id}:block/dragon_forge_bricks/window_off"
+        },
+        "vent=false,window=true,powered=true" : {
+            "model" : "${id}:block/dragon_forge_bricks/window_on"
+        },
+        "vent=true,window=false,powered=false" : {
+            "model" : "${id}:block/dragon_forge_bricks/vent_off"
+        },
+        "vent=true,window=false,powered=true" : {
+            "model" : "${id}:block/dragon_forge_bricks/vent_on"
+        },
+        "vent=true,window=true,powered=false" : {
+            "model" : "${id}:block/dragon_forge_bricks/vent_window_off"
+        },
+        "vent=true,window=true,powered=true" : {
+            "model" : "${id}:block/dragon_forge_bricks/vent_window_on"
+        }
+    }
+}

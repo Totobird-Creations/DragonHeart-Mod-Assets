@@ -1,0 +1,13 @@
+{
+    "parent": "${id}:block/piece/cube_column",
+    "textures": {
+        "side0": "${id}:block/piece/bricks",
+        "side1": "${id}:block/piece/cracks",
+        "side2": "${id}:block/piece/hatch_underlay",
+        "side3": "${id}:misc/empty",
+        "end0": "${id}:block/piece/bricks",
+        "end1": "${id}:block/piece/cracks",
+        "end2": "${id}:misc/empty",
+        "end3": "${id}:misc/empty"
+    }
+}
