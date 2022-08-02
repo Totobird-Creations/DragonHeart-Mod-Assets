@@ -19,12 +19,16 @@
   "entity.${id}.dragon"                                                : "%1\$s Dragon",
   "dragon.${id}.dragonegg"                                             : "%1\$s Dragon Egg",
   "dragon.${id}.dragonegg_creative"                                    : "Creative %1\$s Dragon Egg",
-  "dragon.${id}.type.empty"                                            : "Empty",
+  "dragon.${id}.base"                                                  : "Uninfused",
   "dragon.${id}.type.fire"                                             : "Fire",
   "dragon.${id}.type.ice"                                              : "Ice",
   "dragon.${id}.type.lightning"                                        : "Lightning",
   "dragon.${id}.dragonblood"                                           : "%1\$s Dragon Blood",
   "dragon.${id}.dragonbreath"                                          : "%1\$s Dragon Breath",
+
+  "_comment_00_03" : "Dragon Containers",
+  "container.${id}.dragonegg_incubator"                                : "Dragon Egg Incubator",
+  "container.${id}.dragon_forge_core"                                  : "Dragon Forge",
 
   "_comment_01_00" : "Misc Items",
   "item.${id}.dragonbone"                                              : "Dragon Bone",
@@ -35,7 +39,7 @@
   "item.${id}.dragonegg_creative.tooltip.1"                            : "anvil to change the colour of this item.",
 
   "_comment_02_00" : "Item Groups",
-  "itemGroup.${id}.dragon"                                             : "Everything Dragons",
+  "itemGroup.${id}.dragon"                                             : "${name}",
 
   "_comment_03_00" : "Status Effects",
   "effect.${id}.frozen"                                                : "Frozen",
