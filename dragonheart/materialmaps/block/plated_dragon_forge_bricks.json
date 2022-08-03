@@ -1,0 +1,10 @@
+{
+  "defaultMap": {
+    "spriteMap": [
+      {
+        "sprite": "dragonheart:block/piece/plate",
+        "material": "dragonheart:dragon_forge_glow"
+      }
+    ]
+  }
+}

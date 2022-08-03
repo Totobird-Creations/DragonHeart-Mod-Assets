@@ -1,0 +1,27 @@
+{
+    "parent": "${id}:block/piece/cube_bottom_top",
+    "textures": {
+
+        "particle": "#side0",
+        "north0": "#side0",
+        "east0": "#side0",
+        "south0": "#side0",
+        "west0": "#side0",
+        "north1": "#side1",
+        "east1": "#side1",
+        "south1": "#side1",
+        "west1": "#side1",
+        "north2": "#side2",
+        "east2": "#side2",
+        "south2": "#side2",
+        "west2": "#side2",
+        "north3": "#side3",
+        "east3": "#side3",
+        "south3": "#side3",
+        "west3": "#side3",
+        "down0": "#side0",
+        "down1": "#side1",
+        "down2": "#side2",
+        "down3": "#side3"
+    }
+}

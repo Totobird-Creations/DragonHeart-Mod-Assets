@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=up": {
+      "model": "${id}:block/plated_dragon_forge_bricks"
+    },
+    "facing=down": {
+      "model": "${id}:block/plated_dragon_forge_bricks",
+      "x": 180
+    },
+    "facing=north": {
+      "model": "${id}:block/plated_dragon_forge_bricks",
+      "x": 90
+    },
+    "facing=east": {
+      "model": "${id}:block/plated_dragon_forge_bricks",
+      "x": 90,
+      "y": 90
+    },
+    "facing=south": {
+      "model": "${id}:block/plated_dragon_forge_bricks",
+      "x": 90,
+      "y": 180
+    },
+    "facing=west": {
+      "model": "${id}:block/plated_dragon_forge_bricks",
+      "x": 90,
+      "y": 270
+    }
+  }
+}
