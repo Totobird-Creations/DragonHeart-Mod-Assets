@@ -2,11 +2,11 @@
   "defaultMap": {
     "spriteMap": [
       {
-        "sprite": "${id}:block/piece/core_side",
+        "sprite": "${id}:block/piece/incubator_side",
         "material": "${id}:dragon_forge_glow"
       },
       {
-        "sprite": "${id}:block/piece/core_end",
+        "sprite": "${id}:block/piece/incubator_top",
         "material": "${id}:dragon_forge_glow"
       }
     ]

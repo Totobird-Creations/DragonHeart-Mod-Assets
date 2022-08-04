@@ -1,0 +1,7 @@
+{
+    "parent": "${id}:item/uninfused_dragon_bone_shovel",
+    "textures": {
+      "layer1": "${id}:item/piece/shovel/bone",
+      "layer2": "${id}:item/piece/shovel/cracks"
+    }
+  }

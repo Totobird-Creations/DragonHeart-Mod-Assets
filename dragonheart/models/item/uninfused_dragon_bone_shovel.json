@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+      "layer0": "${id}:item/piece/stick",
+      "layer1": "${id}:item/piece/shovel/uninfused"
+    }
+  }

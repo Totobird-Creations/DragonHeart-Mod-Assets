@@ -1,0 +1,10 @@
+{
+  "defaultMap": {
+    "spriteMap": [
+      {
+        "sprite": "${id}:item/dragon_egg_creative",
+        "material": "${id}:dragon_egg_creative"
+      }
+    ]
+  }
+}

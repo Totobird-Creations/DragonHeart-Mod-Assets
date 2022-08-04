@@ -1,0 +1,6 @@
+{
+    "parent": "${id}:item/dragon_bone_hoe",
+    "textures": {
+      "layer3": "${id}:item/piece/hoe/steel"
+    }
+  }

@@ -2,8 +2,8 @@
   "defaultMap": {
     "spriteMap": [
       {
-        "sprite": "dragonheart:block/piece/aperture",
-        "material": "dragonheart:dragon_forge_glow"
+        "sprite": "${id}:block/piece/aperture",
+        "material": "${id}:dragon_forge_glow"
       }
     ]
   }

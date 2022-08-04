@@ -1,0 +1,16 @@
+{
+    "variants" : {
+        "axis=y" : {
+            "model" : "${id}:block/dragon_bone_block"
+        },
+        "axis=x" : {
+            "model" : "${id}:block/dragon_bone_block",
+            "x" : 90,
+            "y" : 90
+        },
+        "axis=z" : {
+            "model" : "${id}:block/dragon_bone_block",
+            "x" : 90
+        }
+    }
+}

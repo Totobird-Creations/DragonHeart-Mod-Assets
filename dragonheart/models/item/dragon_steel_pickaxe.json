@@ -1,0 +1,6 @@
+{
+    "parent": "${id}:item/dragon_bone_pickaxe",
+    "textures": {
+      "layer3": "${id}:item/piece/pickaxe/steel"
+    }
+  }

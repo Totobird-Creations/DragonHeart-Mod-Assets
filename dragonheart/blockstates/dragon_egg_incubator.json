@@ -1,0 +1,10 @@
+{
+    "variants" : {
+        "powered=false" : {
+            "model" : "${id}:block/dragon_egg_incubator/off"
+        },
+        "powered=true" : {
+            "model" : "${id}:block/dragon_egg_incubator/on"
+        }
+    }
+}

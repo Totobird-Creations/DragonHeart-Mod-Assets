@@ -1,7 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "${id}:item/dragonscale",
-    "layer1": "${id}:item/dragonscale_overlay"
-  }
-}

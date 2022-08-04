@@ -1,0 +1,6 @@
+{
+    "parent": "${id}:item/dragon_bone_shovel",
+    "textures": {
+      "layer3": "${id}:item/piece/shovel/steel"
+    }
+  }
