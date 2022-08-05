@@ -1,7 +1,7 @@
 {
     "parent": "${id}:item/uninfused_dragon_bone_sword",
     "textures": {
-      "layer1": "${id}:item/piece/sword/bone",
-      "layer2": "${id}:item/piece/sword/cracks"
+      "layer1": "${id}:item/tool/sword/bone",
+      "layer2": "${id}:item/tool/sword/cracks"
     }
   }

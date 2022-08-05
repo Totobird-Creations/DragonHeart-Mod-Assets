@@ -1,7 +1,7 @@
 {
     "parent": "${id}:item/uninfused_dragon_bone_pickaxe",
     "textures": {
-      "layer1": "${id}:item/piece/pickaxe/bone",
-      "layer2": "${id}:item/piece/pickaxe/cracks"
+      "layer1": "${id}:item/tool/pickaxe/bone",
+      "layer2": "${id}:item/tool/pickaxe/cracks"
     }
   }

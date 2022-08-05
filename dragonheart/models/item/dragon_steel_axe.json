@@ -1,6 +1,6 @@
 {
     "parent": "${id}:item/dragon_bone_axe",
     "textures": {
-      "layer3": "${id}:item/piece/axe/steel"
+      "layer3": "${id}:item/tool/axe/steel"
     }
   }

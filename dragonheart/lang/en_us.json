@@ -29,6 +29,8 @@
   "dragon.${id}.dragon_egg_creative"                                   : "Creative %1\$s Dragon Egg",
   "dragon.${id}.dragon_blood"                                          : "%1\$s Dragon Blood",
   "dragon.${id}.dragon_breath"                                         : "%1\$s Dragon Breath",
+  "dragon.${id}.empty_dragon_bucket"                                   : "Dragon Bucket",
+  "dragon.${id}.dragon_bucket"                                         : "Bucket of %1\$s Dragon",
 
   "dragon.${id}.uninfused_dragon_bone_axe"                             : "Uninfused Dragon Bone Axe",
   "dragon.${id}.uninfused_dragon_bone_hoe"                             : "Uninfused Dragon Bone Hoe",
