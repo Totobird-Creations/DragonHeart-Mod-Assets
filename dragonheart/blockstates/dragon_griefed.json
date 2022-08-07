@@ -1,5 +1,7 @@
 {
-    "": {
-        "model": "${id}:block/dragon_griefed"
+    "variants" : {
+        "" : {
+            "model" : "${id}:block/dragon_griefed"
+        }
     }
 }
