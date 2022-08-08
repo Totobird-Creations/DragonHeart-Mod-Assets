@@ -2,7 +2,7 @@
   "defaultMap": {
     "spriteMap": [
       {
-        "sprite": "${id}:item/piece/pickaxe/steel",
+        "sprite": "${id}:item/tool/pickaxe/steel",
         "material": "${id}:dragon_tool_glow"
       }
     ]

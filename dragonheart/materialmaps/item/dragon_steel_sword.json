@@ -2,7 +2,7 @@
   "defaultMap": {
     "spriteMap": [
       {
-        "sprite": "${id}:item/piece/sword/steel",
+        "sprite": "${id}:item/tool/sword/steel",
         "material": "${id}:dragon_tool_glow"
       }
     ]
