@@ -48,7 +48,7 @@
   "dragon.${id}.dragon_steel_shovel"                                   : "%1\$s Dragon Steel Shovel",
   "dragon.${id}.dragon_steel_sword"                                    : "%1\$s Dragon Steel Sword",
 
-  "_comment_01_01" : "Dragon Containers",
+  "_comment_01_01" : "Dragon Containers & Screens",
   "container.${id}.dragon_egg_incubator"                               : "Dragon Egg Incubator",
   "container.${id}.dragon_forge_core"                                  : "Dragon Forge",
 
