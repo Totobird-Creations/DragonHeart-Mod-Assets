@@ -1,0 +1,8 @@
+{
+    "textures" : [
+        "${id}:dragon_egg/a",
+        "${id}:dragon_egg/b",
+        "${id}:dragon_egg/c",
+        "${id}:dragon_egg/d"
+    ]
+}
