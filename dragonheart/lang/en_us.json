@@ -72,6 +72,9 @@
   "sound.${id}.dragonegg.break"                                        : "Dragon Egg Broken",
   "sound.${id}.dragonegg.hatch"                                        : "Dragon Egg Hatched",
 
+  "_comment_07_00" : "Death Messages",
+  "death.${id}.roar"                                                   : "%1\$s was killed by a deafening sound",
+
   "_comment_g" : "Guide",
   "text.guide_book.${id}.title"                                        : "${name} Guide",
   "text.guide_book.${id}.subtitle"                                     : "A Survivor's Guide",
