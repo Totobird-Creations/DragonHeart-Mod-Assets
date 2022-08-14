@@ -1,7 +1,7 @@
 {
-	"parent": "${id}:item/empty_dragon_bucket",
+	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer2": "${id}:item/bucket/dragon",
-		"layer3": "${id}:item/bucket/dragon_overlay"
+		"layer0": "${id}:item/bucket/base",
+		"layer1": "${id}:item/bucket/gem"
 	}
 }

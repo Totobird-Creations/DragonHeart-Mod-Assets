@@ -1,0 +1,6 @@
+{
+	"parent": "${id}:item/dragon_bucket",
+	"textures": {
+		"layer2": "${id}:item/bucket/dragon_egg"
+	}
+}

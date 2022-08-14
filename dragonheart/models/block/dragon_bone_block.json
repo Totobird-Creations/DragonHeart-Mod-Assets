@@ -1,8 +1,8 @@
 {
   "parent": "minecraft:block/cube_bottom_top",
   "textures": {
-    "top": "${id}:block/dragonboneblock_top",
-    "bottom": "${id}:block/dragonboneblock_top",
-    "side": "${id}:block/dragonboneblock_side"
+    "top": "${id}:block/dragon_bone_block_top",
+    "bottom": "${id}:block/dragon_bone_block_top",
+    "side": "${id}:block/dragon_bone_block_side"
   }
 }

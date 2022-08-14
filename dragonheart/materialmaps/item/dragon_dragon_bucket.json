@@ -1,0 +1,10 @@
+{
+  "defaultMap": {
+    "spriteMap": [
+      {
+        "sprite": "${id}:item/bucket/gem",
+        "material": "${id}:dragon_gem_glow"
+      }
+    ]
+  }
+}
